@@ -2,7 +2,7 @@
 
 - 🔭 Em transição de carreira
 - 🌱 Estudante de análise e desenvolvimento de sistema
-- 🌱 Agora estou estudando JavaScript
+- 🌱 Agora estou Java
 - 📫 contate-me no e-mail:geraldo.fvinicius@gmail.com
 
 <div>
