@@ -3,8 +3,8 @@
 - 🔭 Em transição de carreira
 - 🌱 Estudante de análise e desenvolvimento de sistema
 - 🌱 Agora estou estudando JavaScript
-- 📫 contate-me no e-mail:viniciusgeraldo2009@hotmail.com
-- 😄 Pronouns: ele/dele
+- 📫 contate-me no e-mail:geraldo.fvinicius@gmail.com
+
 <div>
 <img height="180em" width="47%" src="https://github-readme-stats.vercel.app/api?username=viniciusFGeraldo&show_icons=true&theme=radical" />
 <img height="180em" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusFGeraldo&layout=donut&theme=radical" />
